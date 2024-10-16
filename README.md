@@ -1,2 +1,2 @@
-# Hangman Project
+# Project
 Hangman Game
